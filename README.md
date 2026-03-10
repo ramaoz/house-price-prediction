@@ -1,6 +1,5 @@
 # house-price-prediction
 Machine learning project predicting house prices using Linear Regression
-# House Price Prediction
 
 This project predicts house prices using machine learning.
 
